@@ -43,3 +43,4 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+/testApp/src/main/resources/local.properties
