@@ -97,7 +97,7 @@
 				<user.username></user.username>
 				<user.password></user.password>
 				<grid2.hub></grid2.hub>
-				<site.url>http://www.google.com</site.url>
+				<site.url>${url}</site.url>
 				<browser.name>chrome</browser.name>
 				<browser.version></browser.version>
 				<browser.platform>ANY</browser.platform>

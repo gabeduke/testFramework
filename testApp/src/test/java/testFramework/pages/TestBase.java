@@ -32,7 +32,7 @@ public class TestBase {
 
 	protected String gridHubUrl;
 
-	protected String websiteUrl;
+	protected String websiteUrl; //to read from maven properties
 
 	protected Browser browser;
 
